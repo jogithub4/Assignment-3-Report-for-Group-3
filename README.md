@@ -6,7 +6,7 @@ This project is aiming to predict the price of electricity using machine learnin
 - **DayofWeek**: Day of the week
 - **WeekofYear**: Week of the year
 - **PeriodofDay**: Indicates half hour period of a day
-- **ForecastWindProductio**: The forecasted wind production at this specific time
+- **ForecastWindProduction**: The forecasted wind production at this specific time
 - **SystemLoadEA**: The national load forecast at this specific time
 - **SMPEA**: The price forecast at this specific time
 - **ORKTemperature**: The temperature recorded at Cork Airport at this specific time
