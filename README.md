@@ -5,7 +5,7 @@ This project is aiming to predict the price of electricity using machine learnin
 - HolidayFlag: Indicates whether there was a holiday at this time, with 1 indicating yes and 0 for no
 - DayofWeek: Day of the week
 - WeekofYear: Week of the year
-- PeriodofDay: indicates half hour period of a day
+- PeriodofDay: Indicates half hour period of a day
 - ForecastWindProduction: The forecasted wind production at this specific time
 - SystemLoadEA: The national load forecast at this specific time
 - SMPEA: The price forecast at this specific time
