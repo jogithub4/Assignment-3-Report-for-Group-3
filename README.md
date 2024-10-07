@@ -2,7 +2,7 @@
 
 This project is aiming to predict the price of electricity using machine learning. The dataset used is comprised by a number of different variables:
 
-- HolidayFlag: indicates whether there was a holiday at this time, with 1 indicating yes and 0 for no
+- HolidayFlag: Indicates whether there was a holiday at this time, with 1 indicating yes and 0 for no
 - DayofWeek: Day of the week
 - WeekofYear: Week of the year
 - PeriodofDay: indicates half hour period of a day
