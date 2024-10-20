@@ -15,3 +15,7 @@ This project is aiming to predict the price of electricity using machine learnin
 - **ActualWindProduction**: The actual wind production at this specific time
 - **SystemLoadEP2**: The actual national load forecast at this specific time
 - **SMPEP2**: The actual price at this specific time
+
+## Library requirements and dataset
+
+In order to run this code, you will need to use a virtual environment, such as Pycharm, then run: " pip install pandas scikit-learn ", to install necessary libraries. The dataset used is located at: https://www.kaggle.com/datasets/chakradharmattapalli/electricity-price-prediction
