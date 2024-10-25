@@ -31,7 +31,7 @@ class ElectricityPrediction:
         ttk.Radiobutton(holiday_frame, text="Yes", variable=self.holiday_var, value="1").grid(row=0, column=0, padx=5, pady=5)
         ttk.Radiobutton(holiday_frame, text="No", variable=self.holiday_var, value="0").grid(row=0, column=1, padx=5, pady=5)
 
-        input_frame = ttk.LabelFrame(self.main_frame, text="Input Features")
+        input_frame = ttk.LabelFrame(self.main_frame, text="Input Values")
         input_frame.grid(row=2, column=0, columnspan=2, pady=10)
 
         ttk.Label(input_frame, text="Day of Week (1-7):").grid(row=0, column=0, sticky=tk.W)
