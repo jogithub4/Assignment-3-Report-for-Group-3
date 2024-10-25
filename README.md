@@ -18,7 +18,11 @@ This project is aiming to predict the price of electricity using machine learnin
 
 ## Library requirements and dataset
 
-In order to run this code, you will need to use a virtual environment, such as Pycharm, then run: " pip install pandas scikit-learn ", to install necessary libraries. The dataset used is located at: https://www.kaggle.com/datasets/chakradharmattapalli/electricity-price-prediction
+In order to run this code, you will need to use a virtual environment, such as Pycharm, then run: " pip install pandas scikit-learn ", to install necessary libraries. 
+
+The dataset used is located at: https://www.kaggle.com/datasets/chakradharmattapalli/electricity-price-prediction
+
+This will also be required to run in a folder that contains the final_rf_model.pkl and scaler.pkl, which has been submitted along with the python files in a compressed folder. 
 
 ## Group 3 members
 
