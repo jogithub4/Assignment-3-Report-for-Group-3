@@ -19,3 +19,18 @@ This project is aiming to predict the price of electricity using machine learnin
 ## Library requirements and dataset
 
 In order to run this code, you will need to use a virtual environment, such as Pycharm, then run: " pip install pandas scikit-learn ", to install necessary libraries. The dataset used is located at: https://www.kaggle.com/datasets/chakradharmattapalli/electricity-price-prediction
+
+## Group members
+
+**Morita Peterson** - u3242961
+
+**Kanika Sharma** - u3143854
+
+**Gaurav Sharma** - u3204559
+
+**Josiah Rogel** - u3222271
+
+
+
+
+
