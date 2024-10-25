@@ -125,9 +125,9 @@ class ElectricityPrediction:
 
             except ValueError:
                 if not 1 <= day_of_week <= 7:
-                    self.result_label.config(text="Error: day of week must be between 1 and 7.")
+                    self.result_label.config(text="Error: Day of Week must be between 1 and 7.")
                 elif not 1 <= week_of_year <= 52:
-                    self.result_label.config(text="Error: week of year must be between 1 and 52.")
+                    self.result_label.config(text="Error: Week of Year must be between 1 and 52.")
                 return
 
         except ValueError:
