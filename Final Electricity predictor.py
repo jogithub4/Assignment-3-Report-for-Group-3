@@ -1,3 +1,8 @@
+# Group 3 u3222271, u3242961, u3143854, u3204559
+# Assessment 3: Part A - Report, Electricity Predictor app
+# 25/10/2024
+# Software Technology 1
+
 import tkinter as tk
 from tkinter import ttk
 import pickle
