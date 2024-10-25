@@ -15,7 +15,7 @@ scaler = pickle.load(open('scaler.pkl', 'rb'))
 class ElectricityPrediction:
     def __init__(self, master):
         self.master = master
-        master.title("Electricity Price Prediction")
+        master.title("Electricity Price Prediction App")
 
         self.style = ttk.Style()
         self.style.configure("TLabel", padding=5, font=('Arial', 10))
